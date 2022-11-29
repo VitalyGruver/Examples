@@ -1,0 +1,15 @@
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/bin/Debug/net6.0/Example_001.HellowConsole
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/bin/Debug/net6.0/Example_001.HellowConsole.deps.json
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/bin/Debug/net6.0/Example_001.HellowConsole.runtimeconfig.json
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/bin/Debug/net6.0/Example_001.HellowConsole.dll
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/bin/Debug/net6.0/Example_001.HellowConsole.pdb
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.csproj.AssemblyReference.cache
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.AssemblyInfoInputs.cache
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.AssemblyInfo.cs
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.csproj.CoreCompileInputs.cache
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.dll
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/refint/Example_001.HellowConsole.dll
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.pdb
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/Example_001.HellowConsole.genruntimeconfig.cache
+/Users/vitalygruver/Desktop/Examples/Example_001.HellowConsole/obj/Debug/net6.0/ref/Example_001.HellowConsole.dll
